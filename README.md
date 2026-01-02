@@ -64,9 +64,8 @@ BlendFactoryPro is a powerful UE4 plugin that enables seamless, bidirectional in
 ## Installation
 
 ### 1. Plugin Installation
-1. Copy `BlendFactorypro` folder to: `<YourProject>/Plugins/`
-2. Restart Unreal Editor
-3. Enable plugin: **Edit > Plugins > BlendFactoryPro**
+1. Restart Unreal Editor
+2. Enable plugin: **Edit > Plugins > BlendFactoryPro**
 
 ### 2. Blender Setup
 Install Blender (tested with 3.3+, 4.0+):
@@ -340,3 +339,4 @@ Feature requests and bug reports welcome:
 ---
 
 **BlendFactoryPro** - *Because 3D artists deserve better workflows.* 🚀
+
